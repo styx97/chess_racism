@@ -1,6 +1,7 @@
 # chess_racism
 Code to reconstruct the data set from our paper "Are Chess Discussions Racist? An Adversarial Hate Speech Data Set."
 
+Just open the notebook "recreate_dataset.ipynb" inside the folder of the same name and follow the instructions to obtain our released comment set. 
 
 # cite 
 
